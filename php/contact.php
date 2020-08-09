@@ -1,7 +1,7 @@
 <?php
-$to = 'support@itembridge.com';
-$subject = 'You subject';
-$headers = 'From: (Your site)' . "\r\n" . 'Content-type: text/html; charset=utf-8';
+$to = 'escueladelsoldenia@gmail.com';
+$subject = 'Usuario interado en informacion de la EDS';
+$headers = 'From: escueladelsol.com' . "\r\n" . 'Content-type: text/html; charset=utf-8';
 $message = '
 <html>
 	<head>
